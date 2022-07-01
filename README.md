@@ -21,9 +21,12 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
+#### Desktop view
 ![Desktop view](./images/Screenshot.png)
 
-![Mobile view](./images/Mobile-screenshot.png)
+
+#### Mobile view
+![Mobile view](./images/Mobile-screenshot.png | width=375)
 
 ### Links
 
