@@ -26,7 +26,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 
 #### Mobile view
-![Mobile view](./images/Mobile-screenshot.png | width=375)
+<img src="./images/Mobile-screenshot.png" width='375'>
 
 ### Links
 
