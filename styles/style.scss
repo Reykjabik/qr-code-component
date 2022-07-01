@@ -1,0 +1,11 @@
+//## Colors
+
+$white: hsl(0, 0%, 100%);
+$lt-gray: hsl(212, 45%, 89%);
+$gr-blue: hsl(220, 15%, 55%);
+$dk-blue: hsl(218, 44%, 22%);
+
+
+@import 'reset';
+@import 'base';
+@import 'card';

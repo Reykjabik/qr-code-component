@@ -1,0 +1,37 @@
+.container {
+    width: 20rem;
+    height: 100hv;
+
+    .card {
+        width: 100%;
+        background-color: white;
+        box-sizing: border-box;
+        padding: 1rem;
+        border-radius: 1rem;
+        display: flex;
+        align-items: center;
+        flex-direction: column;
+
+        img {
+            width: 100%;
+            border-radius: 1rem;
+        }
+
+        h1 {
+            margin: 1.6rem 0 1.1rem;
+            font-size: 1.4rem;
+            line-height: 1.7rem;
+            font-weight: bolder;
+            text-align: center;
+            padding: 0 1rem;
+        }
+
+        p {
+            padding: 0 1.1rem 1.3rem;
+            color: $gr-blue;
+            font-size: .95rem;
+            text-align: center;
+            line-height: 1.2rem;
+        }
+    }
+}
